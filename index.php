@@ -1,5 +1,5 @@
 <?php 
 
-	echo "wais d scn";
+	echo "wais d scn, yuh good?";
 
 ?>
